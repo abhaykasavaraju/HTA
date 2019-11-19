@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HTA</string>
+<string name="navigation_drawer_open">Open navigation drawer</string>
+<string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="nav_header_title">Android Studio</string>
+<string name="nav_header_subtitle">android.studio@android.com</string>
+<string name="nav_header_desc">Navigation header</string>
+<string name="action_settings">Settings</string>
+<string name="country_prompt">Choose a complaint</string>
+<string-array name="complaint_arrays">
+    <item>Accidents</item>
+    <item>Illegal Parking</item>
+    <item>Taffic Disruption</item>
+    <item>others</item>
+</string-array>
+<string-array name="complaintReason_arrays">
+    <item>DrunkenDriving</item>
+    <item>Over Speed</item>
+    <item>Wrong Route</item>
+    <item>Others</item>
+</string-array>
+</resources>
